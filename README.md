@@ -1,2 +1,2 @@
 # Page-Replacement-Simulator
- Implementations of FIFO, LRU & Optimal Algorithms.
+ Implementations of FIFO, LRU & OPTIMAL Algorithms.
